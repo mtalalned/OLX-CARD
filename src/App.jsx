@@ -3,7 +3,7 @@ import CARDBODY from "./components/Card";
 function App (){
   return (
     <>
-    <CARDBODY />
+    <CARDBODY imgsrc="" price="" description="" totalRunning="" model="" location="" adPosted=""/>
     </>
   )
 }
